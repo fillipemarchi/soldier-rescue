@@ -12,12 +12,13 @@ h1 {
 body {
 	background-image:url(../imgs/fundo.jpg);
     background-size: cover;
+	height: 97.9vh;
 }
 
 #container{
 	width:950px;
 	height:auto;
-	position:relative;
+	position: relative;
 	margin-left:auto;
 	margin-right:auto;
     
@@ -300,20 +301,3 @@ h3 {
     color: forestgreen;
 }
 
-
-footer p{
-    color: white;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    align-items: center;
-    width: 400px;
-    height: 20px;
-    margin-left:  auto;
-    margin-right: auto;
-    margin-top: 12%;
-    font-size: 18px;
-    font-family: sans-serif;
-    background-color: black;
-    padding: 10px;
-}
