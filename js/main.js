@@ -25,7 +25,7 @@ function start() { // Inicio da função start()
     var TECLA = {
         W: 87,
         S: 83,
-        D: 32,
+        D: 13,
         ArrowLeft: 65,
         ArrowRight: 68
     }
